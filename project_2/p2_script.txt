@@ -1,0 +1,29 @@
+Good morning board-members and shareholders, thank you for joining us here today. We are the data science team behind Quantum Realty Investment.
+Today, I have with me, myself kenny, KC and Lester. 
+
+so before we begin this is a quick run-through of what we will be covering. READ list
+
+So welcome to the opening ceremony of the brand new quantum realty Ames head office.  
+With this, Quantum Realty is moving in a new direction that is evidence based and data driven.
+The goal of the company remains the same which is to find undervalued houses and flip them for a profit.
+The difference is that we have utilised several machine learning models to help us identify the properties with higher upside
+
+Ames is a city in Story County, Central Iowa. And it’s home to about 67000 people. 
+One of the biggest feedback we have gotten from the investment team is that current tools have been ineffective in helping the investment team decide on a property due to the myriad of factors which affects housing prices. 
+
+Our data science team has created a regression model constructed based on Ames Housing Data. This model has been able to produce high accuracy predictions.
+With the ability to mirror the market, we also able to help explain how different variables affect housing prices and identify properties with high development potential.
+Ultimately, our model will be able to solve the following problems:
+* How close is our predicted sale price of a house in Ames?
+* Which features of a property have the strongest impacts on housing prices? 
+SO what goes into prices?
+
+When we think about choosing a  home, there are several factors that immediately pop to mind
+1. Location
+2. Property Size
+3. General Conditions
+4. Amenities
+
+With these in mind, we started to look into our dataset to find factors such the square footage of the property, the number of bedrooms, number of storeys, neighborhood etc.
+From a list of 80 features, we narrowed them down to the key factors to address.
+Now we will have KC walk you through our exploratory data analysis and feature selection process.
